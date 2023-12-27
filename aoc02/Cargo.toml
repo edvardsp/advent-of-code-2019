@@ -1,7 +1,0 @@
-[package]
-name = "aoc02"
-version = "0.1.0"
-authors = ["Edvard S. Pettersen <edvard.pettersen@gmail.com>"]
-edition = "2018"
-
-[dependencies]
